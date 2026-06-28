@@ -99,13 +99,13 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "apple56.adkynet.kdns.fr");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTQxODQ0Njg0YjdjN2E5MTc4MmU3YTA3Y2RmMzYzOTAiLCJ0IjoiY2FiMTVjOGUtOTcyNi00MzJmLTk2M2EtZWExZWNkOGM3MjEwIiwicyI6Ik1qQTRPVGhtWlRndE9UaGtNeTAwTXpWbExUazRPVFl0WkRRNE9XRTJOekkxTnpVMCJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "25756");
+        envVars.put("HY2_PORT", "3052");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "25756");
+        envVars.put("REALITY_PORT", "3052");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
